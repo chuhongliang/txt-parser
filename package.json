@@ -1,0 +1,19 @@
+{
+  "name": "txt-parser",
+  "version": "1.0.0",
+  "description": ".txt文件解析工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhongliang/txt-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuhongliang/txt-parser/issues"
+  },
+  "homepage": "https://github.com/chuhongliang/txt-parser#readme"
+}
