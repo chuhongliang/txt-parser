@@ -1,16 +1,14 @@
 
-* Tags: node.js
-
-##Installation
+### Installation
 ```
 npm install txt-parser
 ```
 
-##Usage
+### Usage
 ``` javascript
 const txtParser = require('txt-parser');
 
-let result = txtParser.parse('filepath');
+let result = txtParser.parseFile(filePath);
 
 
 ``` 
